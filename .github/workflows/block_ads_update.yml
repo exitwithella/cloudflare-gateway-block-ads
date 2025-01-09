@@ -2,7 +2,7 @@ name: Block ads update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '23 3 */3 * *'
   push:
     branches:
       - '**'
