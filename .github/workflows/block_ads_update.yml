@@ -9,6 +9,8 @@ on:
 
 jobs:
   block_ads_update:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
