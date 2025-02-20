@@ -5373,6 +5373,8 @@ analytics.githubassets.com
 analytics.global.sky.com
 analytics.gnetworks.xyz
 analytics.gokwik.co
+analytics.google.com
+analytics.googleapis.com
 analytics.gooogol.com
 analytics.gorillanation.com
 analytics.gotama.link
